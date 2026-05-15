@@ -150,13 +150,15 @@ This project demonstrates:
 
 ## 📸 Dashboard Examples
 
+### Landing Page
+![Landing Page](images/Transport for NSW Train.png)
 ### Line Performance
-![Line Page](images/page1.png)
+![Line Page](images/Lines.png)
 
 ### Station Location
-![Station Location](images/page2.png)
+![Station Location](images/Station Entrances.png)
 
 ### Station Analysis
-![Station Analysis](images/page3.png)
+![Station Analysis](images/Station Data.png)
 
 ``
