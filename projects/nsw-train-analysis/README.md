@@ -151,15 +151,15 @@ This project demonstrates:
 ## 📸 Dashboard Examples
 
 ### Landing Page
-![Landing Page](Transport for NSW Trains.png)
+![Landing Page](landing-page.png)
 
 ### Line Performance
-![Line Page](Lines.png)
+![Line Page](line-performance.png)
 
 ### Station Location
-![Station Location](Station Entrances.png)
+![Station Location](station-location.png)
 
 ### Station Analysis
-![Station Analysis](Station Data.png)
+![Station Analysis](station-analysis.png)
 
 
