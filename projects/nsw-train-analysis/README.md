@@ -6,7 +6,7 @@
 
 ## 🔗 Live Report
 
-https://app.powerbi.com/view?r=...
+[https://app.powerbi.com/view?r=...](https://app.powerbi.com/view?r=eyJrIjoiMTAwYzU3MzYtMzA5MC00YWNiLTlkYmItMWMwZjY2ZTRmNjZjIiwidCI6ImZlM2U1ZjNhLWYyZmYtNGRkNS04ZDFjLTE4MDYxNjRmODU0MSJ9)
 
 ---
 
